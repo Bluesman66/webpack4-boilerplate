@@ -1,0 +1,16 @@
+{
+  "name": "webpack4-boilerplate",
+  "version": "1.0.0",
+  "description": "webpack4-boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development"
+  },
+  "author": "Alex Paclin (alex.paclin@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
